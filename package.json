@@ -1,0 +1,14 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pierrefeuilleciseaux.js",
+  "scripts": {
+    "start": "node pierrefeuilleciseaux.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
